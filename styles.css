@@ -1,11 +1,19 @@
-body { background-image: url("images/pilates.jpg");
-background-size: cover;
-background-attachment: fixed;
+.banner{
+background-image:url(pilates.jpg);
 background-repeat: no-repeat;
-background-position: center center;
+position: relative;
+width: 100%;
+height: 100vh;
+margin-left: auto;
+margin-right: auto;
+background-size: cover; 
+background-position: center;
 
 
 
 
 
-};
+
+
+
+}
